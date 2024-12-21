@@ -1,0 +1,8 @@
+common:
+ url:
+  google: https://www.google.com
+  yahoo: https://www.yahoo.com
+ browser: 
+  googleChrome: gc
+  firefox: ff
+  
