@@ -6,11 +6,7 @@ robotframework-csvlibrary==0.0.5
 robotframework-databaselibrary==1.4.4
 robotframework-datadriver==1.11.0
 robotframework-debuglibrary==2.5.0
-robotframework-excellib==2.0.1
-robotframework-imaplibrary2==0.4.0
-robotframework-jsonlibrary==0.3.1
 robotframework-pabot==2.18.0
-robotframework-pdf2textlibrary==1.0.1
 robotframework-pythonlibcore==4.3.0
 robotframework-requests==0.9.6
 robotframework-robocop==5.0.4

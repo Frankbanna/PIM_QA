@@ -7,11 +7,12 @@ Please setup your environtment before run this project
 
 1. Required library
 ```
+Python  ---  python -m venv myenv
 pip install virtualenv
 ```
 2. Create your environtment
 ```
-virtualenv .venv
+virtualenv .venv | python -m venv .venv
 ```
 3. Open your environtment
 ```
