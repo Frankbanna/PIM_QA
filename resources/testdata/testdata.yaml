@@ -1,8 +1,8 @@
 common:
- url:
-  google: https://www.google.com
-  yahoo: https://www.yahoo.com
- browser: 
-  googleChrome: gc
-  firefox: ff
-  
+  url: 
+    google: https://www.google.co.uk/
+    facebook: https://www.facebook.com
+    reg: https://reg.pim.ac.th/registrar/login.asp
+  browser: 
+    googlechrome: gc
+    firefox: ff
