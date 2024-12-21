@@ -7,12 +7,12 @@ Please setup your environtment before run this project
 
 1. Required library
 ```
-Python  ---  python -m venv myenv
+Python  ---  https://www.python.org/downloads/windows/
 pip install virtualenv
 ```
 2. Create your environtment
 ```
-virtualenv .venv | python -m venv .venv
+virtualenv .venv or python -m venv .venv
 ```
 3. Open your environtment
 ```
@@ -29,7 +29,7 @@ CMD + Shift + P and Python: Select Interpreter to Python 3.13.1 ('.venv')
 ```
 pip install -r requirements.txt
 ```
-5. For open form.html use this
+5. To exit from virtual environment
 ```
--- python main.py
+deactivate
 ```
